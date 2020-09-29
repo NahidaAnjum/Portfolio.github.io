@@ -43,12 +43,14 @@ p {
     font-size: 16px;
     line-height: 24px;
     color: #fff;
+    font-weight: bold;
+
 }
 
 h4 {
     font-size: 26px;
     font-weight: 700;
-    color: #fff;
+    color: #6c3b57;
     letter-spacing: 0.25px;
 }
 
@@ -286,6 +288,7 @@ html {
 
 .section {
     color: #fff;
+    font-weight: bold;
     width: 55%;
     right: 10%;
     left: 35%;
@@ -315,8 +318,10 @@ html {
 
 .section-heading span {
     margin-top: 5px;
-    font-size: 16px;
-    color: #fff;
+    font-size: 17px;
+    color: rgb(70, 72, 73);
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
     letter-spacing: 0.5px;
 }
 
